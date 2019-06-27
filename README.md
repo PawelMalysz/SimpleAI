@@ -1,0 +1,2 @@
+# SimpleAI
+with state machine
